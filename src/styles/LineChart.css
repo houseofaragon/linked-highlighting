@@ -1,0 +1,10 @@
+.linechart-component {
+  border: 1px dashed #f00;
+}
+
+
+.line-chart .series {
+  fill: none;
+  stroke: #5357a1;
+  stroke-width: 2px;
+}
